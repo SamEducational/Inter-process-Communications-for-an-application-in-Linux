@@ -1,4 +1,4 @@
-# Inter-process-Communications-for-an-application-in-Linux
+# Inter-process-Communications-for-an-application-in-Linux (C++)
 Design an application that can be used to transfer files between each other using shared memory and message passing which includes signal management. They are to be separated into two programs: sender and receiver. 
 
 # Sender
