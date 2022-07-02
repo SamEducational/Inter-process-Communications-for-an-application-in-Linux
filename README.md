@@ -53,9 +53,9 @@ Shared memory is faster than message passing
 
 References
 
-https://www.geeksforgeeks.org/ipc-using-message-queues/  (1)
+https://www.geeksforgeeks.org/ipc-using-message-queues/  
 
-https://www.geeksforgeeks.org/ipc-shared-memory/ (2)
+https://www.geeksforgeeks.org/ipc-shared-memory/ 
 
 Operating Systems Concepts, Tenth Edition 
 https://www.geeksforgeeks.org/signals-c-language/
